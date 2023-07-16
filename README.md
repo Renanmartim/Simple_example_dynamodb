@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-  <h1>Leia-me para o exemplo do DynamoDB</h1>
+  <h1>Exemplo do DynamoDB</h1>
   <p>Este é um arquivo Leia-me para um exemplo de como usar o DynamoDB no Visual Studio Code.</p>
   <p>Para usar este exemplo, você precisará:</p>
   <ul>

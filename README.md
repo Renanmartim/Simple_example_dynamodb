@@ -1,8 +1,7 @@
-# Simple_example_dynamodb
 
 <html>
 <head>
-  <title>Leia-me para o exemplo do DynamoDB</title>
+  # Simple_example_dynamodb
 </head>
 <body>
   <h1>Leia-me para o exemplo do DynamoDB</h1>

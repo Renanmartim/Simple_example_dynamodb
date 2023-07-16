@@ -4,7 +4,7 @@
 </head>
 <body>
   <h1>Exemplo do DynamoDB</h1>
-  <p>Este é um arquivo Leia-me para um exemplo de como usar o DynamoDB no Visual Studio Code.</p>
+  <p>Este é um arquivo para um exemplo de como usar o DynamoDB no Visual Studio Code.</p>
   <p>Para usar este exemplo, você precisará:</p>
   <ul>
     <li>Instalar a extensão AWS Toolkit para o Visual Studio Code.</li>
